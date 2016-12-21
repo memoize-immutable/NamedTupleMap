@@ -43,6 +43,7 @@ cache.get({
   my: keyPart2,
   goodness: keyPart3
 }) === value;
+```
 
 ## Author
 
