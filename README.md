@@ -1,5 +1,5 @@
-NamedTupleMap
-========
+NamedTupleMap [![npm version](https://badge.fury.io/js/namedtuplemap.svg)](https://badge.fury.io/js/namedtuplemap) [![Build Status](https://travis-ci.org/memoize-immutable/namedtuplemap.svg?branch=master)](https://travis-ci.org/memoize-immutable/namedtuplemap) [![Dependency Status](https://david-dm.org/memoize-immutable/namedtuplemap.svg)](https://david-dm.org/memoize-immutable/namedtuplemap) [![Coverage Status](https://coveralls.io/repos/github/memoize-immutable/namedtuplemap/badge.svg?branch=master)](https://coveralls.io/github/memoize-immutable/namedtuplemap?branch=master)
+=============
 
 A Map which accepts a named tuple as a key.
 This lib is one of the several possible cache for [memoize-immutable](/louisremi/memoize-immutable),

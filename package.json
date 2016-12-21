@@ -1,7 +1,7 @@
 {
   "name": "namedtuplemap",
   "version": "1.0.0",
-  "description": "A Map which accepts a named tuple of objects as a key.",
+  "description": "A Map which accepts a named tuple of objects as a key",
   "main": "dist/index.js",
   "jsnext:main": "index.js",
   "scripts": {
